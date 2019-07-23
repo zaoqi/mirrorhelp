@@ -20,6 +20,8 @@ Termux APT 源镜像
 使用说明
 ==============
 
+注：Termux更新，此源暂时不可用。
+
 用文本编辑器（如 ``vim`` ）打开 :file:`/data/data/com.termux/files/usr/etc/apt/sources.list`，将 ``https://termux.net`` 替换成 ``https://mirrors.ustc.edu.cn/termux``，保存退出即可。
 
 你也可以使用 ``sed`` 命令进行文本替换：
@@ -34,4 +36,5 @@ Termux APT 源镜像
 ========
 
 :Termux 官网: https://termux.com/
+:FDroid: https://f-droid.org/zh_Hant/packages/com.termux
 :Google Play: https://play.google.com/store/apps/details?id=com.termux
